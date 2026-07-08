@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/auth/google/callback": {},
+    "/api/auth/google": {},
+    "/api/analyser": {},
+    "/api/diagnosis/session": {},
+    "/api/history/mail": {},
+    "/api/health-education": {},
+    "/api/patient-intake": {},
+    "/api/diagnosis/chat": {},
+    "/api/profile": {},
+    "/api/reminders/[id]": {},
+    "/api/reminders": {},
+    "/api/reports/mail": {},
+    "/api/search": {},
+    "/api/translate": {},
+    "/api/transcribe": {},
+    "/database": {},
+    "/diet": {}
+  }
+}

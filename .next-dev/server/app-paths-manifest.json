@@ -1,0 +1,7 @@
+{
+  "/api/health-education/route": "app/api/health-education/route.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/session/page": "app/session/page.js",
+  "/search/page": "app/search/page.js"
+}

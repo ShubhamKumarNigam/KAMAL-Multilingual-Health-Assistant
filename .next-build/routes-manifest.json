@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/api/reminders/[id]",
+      "regex": "^/api/reminders/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/api/reminders/(?<nxtPid>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/database",
+      "regex": "^/database(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/database(?:/)?$"
+    },
+    {
+      "page": "/diagnosis/demo",
+      "regex": "^/diagnosis/demo(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/diagnosis/demo(?:/)?$"
+    },
+    {
+      "page": "/diet",
+      "regex": "^/diet(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/diet(?:/)?$"
+    },
+    {
+      "page": "/emergency",
+      "regex": "^/emergency(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/emergency(?:/)?$"
+    },
+    {
+      "page": "/image-upload",
+      "regex": "^/image\\-upload(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/image\\-upload(?:/)?$"
+    },
+    {
+      "page": "/login",
+      "regex": "^/login(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/login(?:/)?$"
+    },
+    {
+      "page": "/onboarding/history",
+      "regex": "^/onboarding/history(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/onboarding/history(?:/)?$"
+    },
+    {
+      "page": "/onboarding/language",
+      "regex": "^/onboarding/language(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/onboarding/language(?:/)?$"
+    },
+    {
+      "page": "/profile",
+      "regex": "^/profile(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/profile(?:/)?$"
+    },
+    {
+      "page": "/reminders",
+      "regex": "^/reminders(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/reminders(?:/)?$"
+    },
+    {
+      "page": "/reports/demo",
+      "regex": "^/reports/demo(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/reports/demo(?:/)?$"
+    },
+    {
+      "page": "/search",
+      "regex": "^/search(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/search(?:/)?$"
+    },
+    {
+      "page": "/session",
+      "regex": "^/session(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/session(?:/)?$"
+    },
+    {
+      "page": "/session/diagnosis",
+      "regex": "^/session/diagnosis(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/session/diagnosis(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}
