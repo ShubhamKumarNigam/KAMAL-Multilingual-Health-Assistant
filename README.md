@@ -5,13 +5,13 @@
 
 
   <p align="center">
-  <a href="https://github.com/ShubhamKumarNigam/IndicMedDialog"><b>[🌐 GitHub]</b></a> •
+  <a href="https://github.com/ShubhamKumarNigam/KAMAL-Multilingual-Health-Assistant"><b>[🌐 GitHub]</b></a> •
   <a href="----"><b>[📄 ArXiv]</b></a> •
   <a href="https://drive.google.com/drive/folders/1GPamM5x3Tm7NCodGcChQ-zRd8XWYPbSN?usp=sharing"><b>[🖼️ KAMAL Pictures]</b></a> •
   <a href="HuggingFace Dataset Link"><b>[🤗 HF Dataset]</b></a>
 </p>
 <p align="center">
-  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>,<a href="https://www.linkedin.com/in/piyush-patel-751b2a368/">Piyush Patel</a> and https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh <a href="https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh">Sauleh Eetemadi</a>
+  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>,<a href="https://www.linkedin.com/in/piyush-patel-751b2a368/">Piyush Patel</a> and <a href="https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh">Sauleh Eetemadi</a>
 </p>
 <p align="center">
   <b>[KAMAL: Multilingual Patient-Facing Health Assistant for Accessible Care]</b> <a href="----"> <b>(----)</b>
