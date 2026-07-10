@@ -3,6 +3,20 @@
 
 <img width="1300" height="900" alt="KAMAL-Tool-overall-figure-3 drawio" src="https://github.com/user-attachments/assets/705fe77e-9a9c-450c-8dee-fa864491d4a7" />
 
+
+  <p align="center">
+  <a href="https://github.com/ShubhamKumarNigam/IndicMedDialog"><b>[🌐 GitHub]</b></a> •
+  <a href="----"><b>[📄 ArXiv]</b></a> •
+  <a href="https://drive.google.com/drive/folders/1GPamM5x3Tm7NCodGcChQ-zRd8XWYPbSN?usp=sharing"><b>[🖼️ KAMAL Pictures]</b></a> •
+  <a href="HuggingFace Dataset Link"><b>[🤗 HF Dataset]</b></a>
+</p>
+<p align="center">
+  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>,<a href="https://www.linkedin.com/in/piyush-patel-751b2a368/">Piyush Patel</a> and https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh <a href="https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh">Sauleh Eetemadi</a>
+</p>
+<p align="center">
+  <b>[KAMAL: Multilingual Patient-Facing Health Assistant for Accessible Care]</b> <a href="----"> <b>(----)</b>
+</p>
+
 KAMAL is a **Next.js** web application that provides a multilingual AI-powered health assistant workflow. It helps patients through onboarding, guided diagnosis, report generation, medication reminders, and more — all with multilingual support.
 
 ## Features
