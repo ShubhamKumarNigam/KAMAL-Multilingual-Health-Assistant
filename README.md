@@ -11,7 +11,7 @@
   <a href="HuggingFace Dataset Link"><b>[🤗 HF Dataset]</b></a>
 </p>
 <p align="center">
-  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>,<a href="https://www.linkedin.com/in/piyush-patel-751b2a368/">Piyush Patel</a> and <a href="https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh">Sauleh Eetemadi</a>
+  <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>, <a href="https://www.linkedin.com/in/piyush-patel-751b2a368/">Piyush Patel</a> and <a href="https://www.birmingham.ac.uk/staff/profiles/dubai/eetemadi-sauleh">Sauleh Eetemadi</a>
 </p>
 <p align="center">
   <b>[KAMAL: Multilingual Patient-Facing Health Assistant for Accessible Care]</b> <a href="----"> <b>(----)</b>
