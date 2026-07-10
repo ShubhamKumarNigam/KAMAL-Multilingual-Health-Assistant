@@ -1,7 +1,7 @@
 
 # KAMAL: Multilingual Patient-Facing Health Assistant for Accessible Care
 
-<img width="1448" height="1086" alt="KAMAL-Tool-overall-figure-3 drawio" src="https://github.com/user-attachments/assets/705fe77e-9a9c-450c-8dee-fa864491d4a7" />
+<img width="1300" height="900" alt="KAMAL-Tool-overall-figure-3 drawio" src="https://github.com/user-attachments/assets/705fe77e-9a9c-450c-8dee-fa864491d4a7" />
 
 KAMAL is a **Next.js** web application that provides a multilingual AI-powered health assistant workflow. It helps patients through onboarding, guided diagnosis, report generation, medication reminders, and more — all with multilingual support.
 
